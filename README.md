@@ -1,1 +1,2 @@
-# sorting-visualizer
+# Sorting Visualizer
+Author: Minh Anh Nguyen
